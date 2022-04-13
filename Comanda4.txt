@@ -1,0 +1,8 @@
+Clientul:Rosca Sergiu Varsta: 20 a plasat comanda:
+
+Produse:
+
+Portocale Pret: 6.99 Cantitate: 5
+Cereale Pret: 5.0 Cantitate: 1
+
+Suma totala: 39,95
